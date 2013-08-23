@@ -20,6 +20,7 @@
 		?>
 		<p>&copy;2013 <br/><em> <?php echo $registros["texto"] ?> <a href="#"><?php echo $registros["texto"] ?>, </a> <a href="comingsoon.html"><?php echo $registros["texto"] ?></a></em></p><?php } ?>
 	</div>
+	<!-- TESTE DO GIT -->
 </footer>
 <br/>
 </body>
